@@ -1,0 +1,10 @@
+var pacar = undefined;
+console.log("Hello World");
+console.log("Nama :  Muhammad Athhar Malika Putra");
+console.log("TTL : Bandung,6 Mei 2005");
+console.log("Jenis Kelamin : Laki-laki");
+console.log("Agama : Islam");
+console.log("Alamat : Jl.Margahayu permai 17 no. 1 ");
+console.log("Hobi : Main Game,Baca komik");
+console.log("Cita-Cita : Pemimpi handal");
+console.log("Nama Pacar : "+pacar);
