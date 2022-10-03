@@ -1,6 +1,6 @@
 import fs from "fs/promises";
 
-const buffer = await fs.readFile("file-system.mjs");
+const buffer = await fs.readFile("temp.txt");
 
 console.info(buffer.toString());
 
